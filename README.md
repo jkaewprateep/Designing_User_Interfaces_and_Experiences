@@ -40,9 +40,11 @@ Designing User Interfaces and Experiences
     <b> Education customers </b> </br>
 </p>
 
-## 🧸💬Sample
+## 🧸💬Samples
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/jkaewprateep/Designing_User_Interfaces_and_Experiences/blob/main/Retails-customers.png"> </p>br
-    <b> Education customers </b> </br>
+    <img width="40%" src="https://github.com/jkaewprateep/Designing_User_Interfaces_and_Experiences/blob/main/Retails-customers.png"> </br>
+    <img width="40%" src="https://github.com/jkaewprateep/Designing_User_Interfaces_and_Experiences/blob/main/Screenshot%202024-04-26%20211145.png"> 
+    <img width="40%" src="https://github.com/jkaewprateep/Designing_User_Interfaces_and_Experiences/blob/main/Screenshot%202024-04-26%20213151.png"> </br>
+    <b> Samples </b> </br>
 </p>
